@@ -26,7 +26,7 @@ import java.util.Map;
 
 /**
  *
- * @author root
+ * @author Daniil Gentili
  */
 public abstract class Payload {
 

@@ -22,7 +22,7 @@ import Payloads.ResponsePayload;
 
 /**
  *
- * @author root
+ * @author Daniil Gentili
  */
 public class ServerException extends Exception {
     private ResponsePayload response;

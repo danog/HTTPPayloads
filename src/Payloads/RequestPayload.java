@@ -23,7 +23,7 @@ import java.io.IOException;
 
 /**
  *
- * @author root
+ * @author Daniil Gentili
  */
 public class RequestPayload extends Payload {
     
